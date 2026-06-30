@@ -1,0 +1,53 @@
+canonical_identifier: bkk:krp/KR4j0035/v1
+canonical_location: https://kanripo.org/bkk/KR4j0035/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 審齋詞
+  date: '2015-08-25 00:48:01.754863'
+  source:
+    repository: kanripo
+    path: KR4j0035
+  base_edition: WYG
+  edition:
+    short: bkk
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+editions:
+- short: WYG
+  label: 【四庫全書・文淵閣】
+assets:
+  parts:
+  - {seq: 0, filename: KR4j0035_000.yaml, hash: 'sha256:dca5f07b14d6cf01b1c88e66bc8e948e2ca7b9801eb332e98bc2ece1f4506758'}
+  - {seq: 1, filename: KR4j0035_001.yaml, hash: 'sha256:5777a68c08ccf5ef148782c7e3ac250f8b969a3e8e5ecce5a59de0a365a09e82'}
+  - {seq: 2, filename: KR4j0035_002.yaml, hash: 'sha256:57884311c12b0e2fbd6b9a8a90a8efaf7b947fced839c3fd987b9eb5ae26f33a'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR4j0035_001.markers.yaml, hash: 'sha256:6fcdadd417c05429782443a4f206059165c524349ec31c8d22686cfdf95b9019'}
+  - {seq: 2, role: markers, filename: assets/KR4j0035_002.markers.yaml, hash: 'sha256:d778cfb04fa2ca760abc1710c94f22cb992f72f4c3750621903d1f7738125658'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR4j0035_WYG_001-1a
+    span:
+    - body
+    - 0
+    - 4939
+  label: 審齋詞
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR4j0035_WYG_002-1a
+    span:
+    - body
+    - 0
+    - 319
+  label: 原跋
+  type: section
+  level: 1
+hash: sha256:ba72b586b1b55cc093cef853f5a986939c17e4f96cd3616a047f47e9824adc3b
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e

@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR4j0035/krp/v1/juan/2
+seq: 2
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 審齊詞原跋東平王千秋字錫老嘗見自製啓聮云少日羈孤百口星分于異縣長年憂患一身蓬轉于四方其遭逄槩可想已樂府凡六十餘調多酬賀篇絶少綺艷之態衡山縣令梁文恭讀而贈詩云審齊先生世稀有曾是金陵一耆舊萬卷胸中星斗文百篇筆下龍蛇走淵源更擅麟史長碑版肯居鱷文後倚馬常摧鏖戰場脫腕難供掃愁帚中州文獻儒一門異縣萍蓬家百口恨極黃楊厄閏年閒却玉堂揮翰手夜光乾沒世稱屈逺枳卑栖價低售漂搖何地著此翁忘憂夜醉長沙酒豈無厚祿故人來為辨草堂留野叟嗟余亦是可憐人慚愧阿戎驚白首一燈續得審齊光多少達人為裔胄眷豫憔悴五峰下頻寄篇來復相夀年來事事淋過灰尚有詩情閴情竇有時信筆不自置憶起居家吕窠臼審齊樂府似花間何必老夫疥篇右集中席上呈梁次張水調歌頭一闋其互相溢美可謂無言不讐矣古虞毛晉識
+  hash: sha256:f5d8dfac255ffb65223a482d60d2bc8e2fcea46ce9848651a7c3e777bc0b4651
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR4j0035_WYG_002-1a}
+metadata:
+  title: 審齋詞
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-25 00:48:01.754863'
+  juan_title: 原跋
+  source:
+    repository: kanripo
+    path: KR4j0035/KR4j0035_002.txt
+hash: sha256:57884311c12b0e2fbd6b9a8a90a8efaf7b947fced839c3fd987b9eb5ae26f33a
