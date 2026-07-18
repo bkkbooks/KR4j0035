@@ -21,7 +21,7 @@ assets:
   - {seq: 1, filename: KR4j0035_001-WYG.yaml, hash: 'sha256:1f9baa3df21dc710790786242f2aaff18aa8cac9160a56972c5b28731888753a'}
   - {seq: 2, filename: KR4j0035_002-WYG.yaml, hash: 'sha256:247119553206b5da619fba5132d46af17e8508dc1d8fdd3adb2d058b32c3bce2'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR4j0035_001-WYG.markers.yaml, hash: 'sha256:fc6a7bcc2936764dcd3fca945168cbd10e3159542b21a777829516e74c174ce7'}
+  - {seq: 1, role: markers, filename: assets/KR4j0035_001-WYG.markers.yaml, hash: 'sha256:88b86a8abff3d13ad1dee5817a0ccaf87bcced537303e68ee665252f1ac1cbd7'}
   - {seq: 2, role: markers, filename: assets/KR4j0035_002-WYG.markers.yaml, hash: 'sha256:0ebadf95081f611ea8625e6ec3b1dcb589d1c0509c9bb69c501e7140b365aab2'}
 table_of_contents:
 - ref:
@@ -44,4 +44,4 @@ table_of_contents:
   label: 原跋
   type: section
   level: 1
-hash: sha256:53a855a60c668cb4be13f585944ebcacd0797be6d5ebfac8a25537b31bd6ec90
+hash: sha256:978082655398349a927e77248dcfb309f67b2600ce51ecaedfeddb986995aafd
